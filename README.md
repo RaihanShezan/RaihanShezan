@@ -2,6 +2,8 @@
 
 I'm a fullstack web developer specialized in developing websites on both the traditional RESTful API and the latest GraphQL API. For frontend design I use React, Redux, Bootstrap, Semantic UI, HTML, CSS & SCSS. I rely on MongoDB, Express & NodeJS for the backend development. I have experience in deploying a lot of projects using MongoDB Atlas & Heroku. To see all my past projects please visit: [My Projects](https://www.raihanshezan.com/projects)
 
+---
+
 ### Current WebDev Projects
 I’m currently working on 2 personal projects that are very dear to me.
 
@@ -10,6 +12,8 @@ A nonprofit web platform to facilitate sharing and distribution of excess/unused
 
 ##### [Tailors Tale](https://www.tailorstale.com)
 A unique online marketplace to sell handcrafts, crafts that are the pride of specific geography around the world. The site promotes products by telling the unique story behind each of the craft and their makers.
+
+---
 
 ### Professional Ethics
 I always look forward to collaborate/participate in projects, either for-profit or non-profit, that has a great focus on serving underprivileged communities through innovation.
