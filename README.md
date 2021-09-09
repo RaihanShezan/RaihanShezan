@@ -18,4 +18,6 @@ A unique online marketplace to sell handcrafts, crafts that are the pride of spe
 ### Professional Ethics
 I always look forward to collaborate/participate in projects, either for-profit or non-profit, that has a great focus on serving underprivileged communities through innovation.
 
+I've been playing with programming, problem solving & web development for nearly a decade. What started as a hobby is now a passion & I can't wait to make a career out of it. I aim to work with the best developers & engineers in the world to learn & improve my skills everyday.
+
 💻 To know all about me, feel free to [Visit My Website](https://www.raihanshezan.com)
