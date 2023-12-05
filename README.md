@@ -1,23 +1,5 @@
-### Hi there 👋
+In the ever-evolving landscape of technology, I'm a passionate full-stack web developer who thrives on challenges and embraces innovation. With expertise in both traditional RESTful API and the latest GraphQL API, I seamlessly bridge the gap between front-end and back-end development. My weapon of choice for crafting captivating user interfaces is a blend of React, Redux, Bootstrap, Semantic UI, HTML, CSS, and SCSS. For robust back-end development, I rely on the power of MongoDB, Express, and NodeJS. My experience in deploying projects using MongoDB Atlas and Heroku ensures seamless integration and scalability.
 
-I'm a fullstack web developer specialized in developing websites on both the traditional RESTful API and the latest GraphQL API. For frontend design I use React, Redux, Bootstrap, Semantic UI, HTML, CSS & SCSS. I rely on MongoDB, Express & NodeJS for the backend development. I have experience in deploying a lot of projects using MongoDB Atlas & Heroku. To see all my past projects please visit: [My Projects](https://www.raihanshezan.com/projects)
+Beyond web development, I'm an SEO and digital marketing expert with a knack for driving organic traffic and boosting brand visibility. My keen interest in machine learning fuels my exploration of its potential to transform industries and enhance user experiences.
 
----
-
-### Current WebDev Projects
-I’m currently working on 2 personal projects that are very dear to me.
-
-##### [Patron A Smile](https://www.patronasmile.com) 
-A nonprofit web platform to facilitate sharing and distribution of excess/unused food, clothing and household items. The site connects patrons with volunteers for distribution of such items to choice of charity or needy people nearby.
-
-##### [Tailors Tale](https://www.tailorstale.com)
-A unique online marketplace to sell handcrafts, crafts that are the pride of specific geography around the world. The site promotes products by telling the unique story behind each of the craft and their makers.
-
----
-
-### Professional Ethics
-I always look forward to collaborate/participate in projects, either for-profit or non-profit, that has a great focus on serving underprivileged communities through innovation.
-
-I've been playing with programming, problem solving & web development for nearly a decade. What started as a hobby is now a passion & I can't wait to make a career out of it. I aim to work with the best developers & engineers in the world to learn & improve my skills everyday.
-
-💻 To know all about me, feel free to [Visit My Website](https://www.raihanshezan.com)
+Currently, I'm immersed in the world of SaaS product development, spearheading Invictosoft, my company dedicated to creating innovative business automation and digital presence solutions. With every project I undertake, I strive to push the boundaries of technology, empowering businesses to thrive in the digital age.
