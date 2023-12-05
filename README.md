@@ -1,4 +1,4 @@
-# Visionary Leader & Innovator, Revolutionizing SaaS Products
+# Tech Innovator Empowering Businesses with Cutting-Edge SaaS Solutions
 
 As a seasoned full-stack web developer, SEO expert, and machine learning enthusiast, I'm driven by a passion for innovation and a commitment to empowering businesses through technology. My journey began with a deep fascination for the intricacies of web development, where I mastered both traditional RESTful API and more modern GraphQL API. Armed with expertise in Next.js & React, I crafted captivating user interfaces that seamlessly integrated with robust back-end systems powered by SQL & NoSQL databases.
 
